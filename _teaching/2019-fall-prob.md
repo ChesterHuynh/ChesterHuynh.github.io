@@ -1,5 +1,5 @@
 ---
-title: "553.420/620 Introduction to Probability"
+title: "553.420/620 Introduction to Probability (Fall 2019)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-fall-prob
@@ -8,4 +8,6 @@ date: 2019-09-01
 location: "Baltimore, Maryland"
 ---
 
-Teaching assistant for 553.420/620 Introduction to Probability taught by Prof. John Wierman in Fall 2019. Section held on Thursdays at 10:30am.
+Teaching assistant for 553.420/620 Introduction to Probability taught by Prof. John Wierman in Fall 2019.
+
+Section held on Thursdays at 10:30am.
