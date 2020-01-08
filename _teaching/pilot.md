@@ -1,7 +1,7 @@
 ---
 title: "JHU Peer-Led Team Learning (PILOT)"
 collection: teaching
-type: "tutoring"
+type: "Tutoring"
 permalink: /teaching/pilot
 venue: "Johns Hopkins University, Office of Academic Support"
 date: 2018-09-01
