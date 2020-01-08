@@ -6,6 +6,7 @@ permalink: /teaching/pilot
 venue: "Johns Hopkins University, Office of Academic Support"
 date: 2018-09-01
 location: "Baltimore, Maryland"
+share: false
 ---
 
 PILOT Leader for 030.205 Organic Chemistry I (Fall 2018) and 553.171 Discrete Math (Spring 2019).
