@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chester Huynh"
 title_separator          : "-"
 name                     : &name "Chester Huynh"
-description              : &description "JHU BME & CS (2021)"
+description              : &description "Undergraduate at Johns Hopkins University"
 url                      : https://chesterhuynh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ChesterHuynh/ChesterHuynh.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chester Huynh"
   avatar           : "headshot.png"
-  bio              : "Undergraduate at Johns Hopkins University"
+  bio              : "Biomedical Engineering and Computer Science @ JHU"
   location         : "Baltimore, MD"
   employer         :
   pubmed           :

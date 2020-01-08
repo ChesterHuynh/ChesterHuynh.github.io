@@ -8,13 +8,12 @@ date: 2018-09-01
 location: "Baltimore, Maryland"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+PILOT Leader for 030.205 Organic Chemistry I (Fall 2018) and 553.171 Discrete Math (Spring 2019).
 
-Heading 1
+Discrete Math (Prof. Beryl Castello, Spring 2019)
 ======
+Sessions: Mondays at 6-8pm (Maryland 202), Tuesdays at 6-8pm (Maryland 217)
 
-Heading 2
+Organic Chemistry I (Prof. Craig Townsend, Fall 2018)
 ======
-
-Heading 3
-======
+Sessions: Mondays at 7:30-9:30pm (Krieger 306)
