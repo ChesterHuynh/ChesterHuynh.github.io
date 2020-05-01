@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+- **Multivarite Time Series Classification with Random Forest:** Currently extending random forests with structured projection matrices for applications in EEG signal classification problems related to decision making and anatomical classification. (Results to come!)
+
 - **Tetris AI:** Developed a Deep Q-Network using the deep reinforcement learning framework implemented using Python and TensorFlow.
 ([View project on Github](https://github.com/ChesterHuynh/tetrisAI))
 
