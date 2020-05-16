@@ -14,6 +14,7 @@ PILOT Leader for 030.205 Organic Chemistry I (Fall 2018) and 553.171 Discrete Ma
 ## Discrete Math (Prof. Beryl Castello, Spring 2019)
 
 Sessions: Mondays at 6-8pm (Maryland 202), Tuesdays at 6-8pm (Maryland 217)
+
 - Week 1: [problem set](/files/pilot/discrete-sp19/pset1.pdf)
 - Week 2: [problem set](/files/pilot/discrete-sp19/pset2.pdf)
 - Week 3: [problem set](/files/pilot/discrete-sp19/pset3.pdf)
@@ -30,6 +31,7 @@ Sessions: Mondays at 6-8pm (Maryland 202), Tuesdays at 6-8pm (Maryland 217)
 ## Organic Chemistry I (Prof. Craig Townsend, Fall 2018)
 
 Sessions: Mondays at 7:30-9:30pm (Krieger 306)
+
 - Week 1: [problem set](/files/pilot/orgo1-fa18/pset1.pdf)
 - Week 2: [problem set](/files/pilot/orgo1-fa18/pset2.pdf)
 - Week 3: [problem set](/files/pilot/orgo1-fa18/pset3.pdf)
