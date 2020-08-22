@@ -11,4 +11,4 @@ share: false
 
 Teaching assistant for 553.430/630 Introduction to Statistics taught by Prof. Avanti Athreya in Fall 2020.
 
-Weekly sections are held on Tuesdays via Zoom.
+Weekly sections are held on Tuesdays via Zoom. Notes from section will be posted here.
