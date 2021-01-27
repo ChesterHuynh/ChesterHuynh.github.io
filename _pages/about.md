@@ -7,9 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a rising senior at The Johns Hopkins University pursuing a B.S. in Biomedical Engineering with a focus in Biomedical Data Science and B.S. in Computer Science. My interests lie in the broad field of AI and machine learning, but primarily in theoretical and applied work in statistical machine learning.
+I am a senior at The Johns Hopkins University pursuing a B.S. in Biomedical Engineering with a focus in Biomedical Data Science, B.S. in Computer Science, and B.S. in Applied Math & Statistics. My interests lie in the broad field of AI and machine learning, but primarily in theoretical and applied work in statistical machine learning.
 
-I currently work under Dr. Sridevi Sarma in the [Neuromedical Control Systems Lab (NCSL)](https://sarmalab.icm.jhu.edu/) as an undergraduate research assistant developing machine learning algorithms in the context of EEG signal analysis. In the summer of 2020, I will be a software engineering intern at Microsoft under the Core Services Engineering & Operations (CSEO) division working on machine learning projects related to Rogue AP detection.
+I currently work under Dr. Sridevi Sarma in the [Neuromedical Control Systems Lab (NCSL)](https://sarmalab.icm.jhu.edu/) as an undergraduate research assistant developing machine learning algorithms in the context of motor decoding through EEG signal analysis.
+
+Starting in August 2021, I will be a software engineer at Microsoft under the Core Services Engineering & Operations (CSEO) division.
 
 Take a look at some of the projects that I have worked on and feel free to reach out!
 
