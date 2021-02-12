@@ -15,6 +15,8 @@ author_profile: true
 
 ## Personal Projects
 
+- **Matrix Analysis Notes:** Transcribed course notes for AMS792 Matrix Analysis (Fall 2020) into TeX. ([View project on Github](https://github.com/ChesterHuynh/jhu-553-792-course-notes))
+
 - **Tetris AI:** Developed a Deep Q-Network using the deep reinforcement learning framework implemented using Python and TensorFlow.
 ([View project on Github](https://github.com/ChesterHuynh/tetrisAI))
 
