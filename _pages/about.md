@@ -7,14 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a senior at The Johns Hopkins University pursuing a B.S. in Biomedical Engineering with a focus in Biomedical Data Science, B.S. in Computer Science, and B.S. in Applied Math & Statistics. My interests lie in the broad field of AI and machine learning, but primarily in theoretical and applied work in statistical machine learning.
+I recently graduated from Johns Hopkins University with a B.S. in Biomedical Engineering, Computer Science, and Applied Math & Statistics. From there, I returned to Microsoft to start a full-time position as a software engineer in August 2021. Currently, my team focuses on developing data engineering and AI solutions for internal network infrastructure scenarios.
 
-I currently work under Dr. Sridevi Sarma in the [Neuromedical Control Systems Lab (NCSL)](https://sarmalab.icm.jhu.edu/) as an undergraduate research assistant developing machine learning algorithms in the context of motor decoding through EEG signal analysis.
+I previously worked under Dr. Sridevi Sarma in the [Neuromedical Control Systems Lab (NCSL)](https://sarmalab.icm.jhu.edu/) as an undergraduate research assistant developing machine learning algorithms in the context of motor decoding through EEG signal analysis.
 
-Starting in August 2021, I will be a software engineer at Microsoft under the Core Services Engineering & Operations (CSEO) division.
+My current interests lie in the broad field of AI and machine learning, but primarily in theoretical and applied work in statistical machine learning.
 
 Take a look at some of the projects that I have worked on and feel free to reach out!
 
+<!-- I am a senior at The Johns Hopkins University pursuing a B.S. in Biomedical Engineering with a focus in Biomedical Data Science, B.S. in Computer Science, and B.S. in Applied Math & Statistics. My interests lie in the broad field of AI and machine learning, but primarily in theoretical and applied work in statistical machine learning.
+
+I currently work under Dr. Sridevi Sarma in the [Neuromedical Control Systems Lab (NCSL)](https://sarmalab.icm.jhu.edu/) as an undergraduate research assistant developing machine learning algorithms in the context of motor decoding through EEG signal analysis.
+
+Starting in August 2021, I will be a software engineer at Microsoft under the Core Services Engineering & Operations (CSEO) division. -->
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
@@ -27,11 +32,11 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+6. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
