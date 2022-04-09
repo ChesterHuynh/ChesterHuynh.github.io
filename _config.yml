@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Chester Huynh"
   avatar           : "headshot.png"
-  bio              : "Biomedical Engineering, Computer Science, Applied Math @ JHU"
-  location         : "Baltimore, MD"
+  bio              : "Software Engineer @ Microsoft"
+  location         : "Seattle, WA"
   employer         :
   pubmed           :
   googlescholar    :
-  email            : "xhuynh1@jhu.edu"
+  email            : "chester.huynh924@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
