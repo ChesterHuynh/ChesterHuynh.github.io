@@ -15,9 +15,12 @@ author_profile: true
 
 ## Personal Projects
 
-- **Matrix Analysis Notes:** Transcribed course notes for AMS792 Matrix Analysis (Fall 2020) into TeX. ([View project on Github](https://github.com/ChesterHuynh/jhu-553-792-course-notes))
+- **Music Translation ([View project on Github](https://github.com/ChesterHuynh/Wavenet-CPC-Music-Translation)):** A team project that combined the [WaveNet autoencoder](https://www.deepmind.com/blog/wavenet-a-generative-model-for-raw-audio) architecture with [Contrastive Predictive Coding (CPC)](https://arxiv.org/abs/1807.03748) encoding to translates audio snippets of classical music from one instrument to another among three selected instruments: piano, violin, and cello. See a brief manuscript [here](/files/projects/jhu/Wavenet_CPC_Manuscript.pdf) and an article about it [here](https://malonecenter.jhu.edu/popular-deep-learning-course-goes-beyond-the-fundamentals/). This project was done in collaboration with [@Maggie Wang](https://www.linkedin.com/in/magwang/), [@Silu Men](https://www.linkedin.com/in/silumen/), and [@David Shi](https://www.linkedin.com/in/david-shi9/).
 
-- **Tetris AI:** Developed a Deep Q-Network using the deep reinforcement learning framework implemented using Python and TensorFlow.
-([View project on Github](https://github.com/ChesterHuynh/tetrisAI))
+- **Tricuviz:** A team project that performs near real-time registration of pre-operative CT scans with intraoperative fluoroscopy images for transcatheter tricuspid valve replacement operations. Code is private.
 
-- **Tri-Tag:** A modern, digital approach to Triage. My group received a Top Ten in Category award out of hundreds of participandts at MedHacks 2018. TriTag is an efficient patient marker and tracking system for patients in Emergency and Mass Casualty events. It consists of three steps: (1) Initial assessment and assignment of severity and hash code, (2) HIPAA-compliant cloud database of important medical data for remote retrieval, and (3) ambulatory tracking of patients through cloud database. ([View project on Devpost](https://devpost.com/software/tritag))
+- **Matrix Analysis Notes ([View project on Github](https://github.com/ChesterHuynh/jhu-553-792-course-notes)):** Transcribed course notes for AMS792 Matrix Analysis (Fall 2020) into TeX.
+
+- **Tetris AI ([View project on Github](https://github.com/ChesterHuynh/tetrisAI)):** Developed a Deep Q-Network using the deep reinforcement learning framework implemented using Python and TensorFlow.
+
+- **Tri-Tag ([View project on Devpost](https://devpost.com/software/tritag)):** A modern, digital approach to Triage. My group received a Top Ten in Category award out of hundreds of participandts at MedHacks 2018. TriTag is an efficient patient marker and tracking system for patients in Emergency and Mass Casualty events. It consists of three steps: (1) Initial assessment and assignment of severity and hash code, (2) HIPAA-compliant cloud database of important medical data for remote retrieval, and (3) ambulatory tracking of patients through cloud database.
